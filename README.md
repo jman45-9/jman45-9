@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jman45-9
 - 👀 I’m interested in Code, Robotics, and Math
-- 🌱 I’m currently learning C and coding a game in JS.
+- 🌱 I’m currently grinding Project Euler
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me jcope0787@gmail.com
 
