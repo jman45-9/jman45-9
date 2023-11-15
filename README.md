@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @jman45-9
-- 👀 I’m interested in Code, Robotics, and Math
-- 🌱 I’m currently working on a command line flashcard utility
-- 💞️ I’m looking to collaborate on nothing at the moment
-- 📫 How to reach me jcope0787@gmail.com
+- I am a high school student interested in math and computer science
+- I like to code using c/c++ but use what ever is needed
 
 <!---
 jman45-9/jman45-9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
