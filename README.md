@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jman45-9
-- I am a high school student interested in math and computer science
-- I like to code using c/c++ but use what is needed
+- I am a high school student interested in math and computer science 
 
 <!---
 jman45-9/jman45-9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
